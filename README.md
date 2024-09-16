@@ -16,6 +16,11 @@ This project creates an AI agent that extracts answers from a PDF document based
 ```
    python ai_agent.py
 ```
+4. Give Inputs when prompted(example):
+```
+   pdfpath = C:\Users\Sai Swaroop\Downloads\agent\this_studio\AI_agent\docs\handbook.pdf
+   Questions = ["What is name of the company?","who is CEO of the company?","what is vacation policy?"]
+```
    
 
 
