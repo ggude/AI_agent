@@ -21,7 +21,11 @@ This project creates an AI agent that extracts answers from a PDF document based
    pdfpath = C:\Users\Gude\Downloads\agent\this_studio\AI_agent\docs\handbook.pdf
    Questions = ["What is name of the company?","who is CEO of the company?","what is vacation policy?"]
 ```
-##
+## Project Implementation:
+## To make the solution accurate: 
+* Embedding Creation: Generate vector embeddings for text chunks using Chromadb or Weaviate.
+* Semantic Search: Perform semantic search over the vector database to retrieve the most relevant information based on user queries.
+* Hybrid search , Agentic search methods also used.
    
 
 
