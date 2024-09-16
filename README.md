@@ -6,8 +6,8 @@ This project creates an AI agent that extracts answers from a PDF document based
 1. Clone the repository:
    
 *```
-git clone https://github.com/ggude/AI_agent.git
-cd Zania-AI-Challenge
+   git clone https://github.com/ggude/AI_agent.git
+   cd Zania-AI-Challenge
 
 
 
