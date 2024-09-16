@@ -26,6 +26,14 @@ This project creates an AI agent that extracts answers from a PDF document based
 * Embedding Creation: Generate vector embeddings for text chunks using Chromadb or Weaviate.
 * Semantic Search: Perform semantic search over the vector database to retrieve the most relevant information based on user queries.
 * Hybrid search , Agentic search methods also used.
+
+## Code could be made modular, scalable, production grade using below techniques:
+* Use asynchronous functions for parallel execution of multiple LLM calls for scalability
+* Ensuring entire design of agent is made async to avoid blocking calls or serialisation etc
+* Modularised the vector db, pdf processing, LLM generation, prompt engineering
+* Production grade code with all design optimisations
+* LLM context caching for long context data reusablity and cost savings
+
    
 
 
