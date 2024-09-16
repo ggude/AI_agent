@@ -1,9 +1,6 @@
 ## Project_overview:
 
 This project creates an AI agent that extracts answers from a PDF document based on given questions and posts the results on Slack.
-## Demo video:
-[Watch the video](https://github.com/ggude/AI_agent/blob/main/Screen-Recording-2024-09-16T02_31_02.845Z.mp4)
-
 ## Getting started
 1.Clone the repository:   
 ```
