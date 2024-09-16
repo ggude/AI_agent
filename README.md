@@ -18,9 +18,10 @@ This project creates an AI agent that extracts answers from a PDF document based
 ```
 4. Give Inputs when prompted(example):
 ```
-   pdfpath = C:\Users\Sai Swaroop\Downloads\agent\this_studio\AI_agent\docs\handbook.pdf
+   pdfpath = C:\Users\Gude\Downloads\agent\this_studio\AI_agent\docs\handbook.pdf
    Questions = ["What is name of the company?","who is CEO of the company?","what is vacation policy?"]
 ```
+##
    
 
 
